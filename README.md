@@ -13,8 +13,6 @@ Este script **depende do `brightnessctl`**, que é usado para ler e alterar o br
 
 No **Arch Linux / derivados**:
 
-##bash
-
     sudo pacman -S brightnessctl
 
 No Debian / Ubuntu:
