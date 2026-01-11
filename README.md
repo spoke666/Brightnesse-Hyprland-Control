@@ -14,11 +14,12 @@ Este script **depende do `brightnessctl`**, que é usado para ler e alterar o br
 No **Arch Linux / derivados**:
 
 ##bash
-sudo pacman -S brightnessctl
+
+    sudo pacman -S brightnessctl
 
 No Debian / Ubuntu:
 
-sudo apt install brightnessctl
+    sudo apt install brightnessctl
 
 "O script brightness-hyprland funciona como um wrapper seguro para aumentar/diminuir brilho, garantindo que não caia abaixo de 5% do máximo e permitindo integração com Hyprland (bindel) e Waybar."
 
