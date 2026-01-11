@@ -1,2 +1,2 @@
-#!/bin/sh 
+#!/bin/sh #isso é um wrapper
 exec /usr/local/bin/min_Brightness.sh "$@"

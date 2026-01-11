@@ -2,6 +2,7 @@
 # Uso:
 #   brightness-step.sh -10   -> diminui 10%, com clamp mínimo
 #   brightness-step.sh +10   -> aumenta 10%
+#   MIN_PERCENT=* define brilho mínimo no sistema
 #   install this script in /usr/lib/min_Brightness take a wrapper brightness in the /usr/bin
 
 MIN_PERCENT=5

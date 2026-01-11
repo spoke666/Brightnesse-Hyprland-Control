@@ -62,6 +62,7 @@ for DEST in $FILES; do
     echo "$DESC instalado com sucesso!"
 done
 
+#noise
 echo "Instalação concluída!"
 echo "Você pode usar 'brightness +10' ou 'brightness -10' no terminal e no Hyprland."
 echo "adcione nas binds os comandos anteriores e seja feliz! ;)"
